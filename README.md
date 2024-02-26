@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KareMaggie
+- 👋 Hi, I’m Kare Maggie
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on software development
