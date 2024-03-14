@@ -38,9 +38,11 @@ main{
 footer{
     justify-content: center;
     text-align: center;
-    margin-left: 20px;
-    background-color: #c6941e;
-    border: auto;
+    font-weight: ;
+    margin-left: 10px;
+    background-color: #1edfec;
+    border-top: 3px double rgb(255, 255, 255);
+    border-bottom: 3px double rgb(255, 255, 255);
 }
 aside{
 
@@ -54,7 +56,7 @@ p{
     text-decoration: dotted;
 }
 
-hi{
+h1{
     color: rgb(255, 255, 255);
     border-bottom: 3px double rgb(255, 255, 255);
 
