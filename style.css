@@ -77,3 +77,27 @@ span{
     text-align: center;
     display: block;
 }
+
+.flex container{
+    display: flex;
+    justify-content: space-between;
+    margin bottom:30px;
+}
+.flex item{
+    background-color: #3498db;
+    color:white;
+    padding:10px;
+    margin:5px;
+}
+
+.grid item{
+    display:grid;
+    grid-template-columns: repeat(3,1fr)
+    grid-gap: 10px;
+}
+.grid item{
+    background-color:#2ecc71;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
