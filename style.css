@@ -110,3 +110,34 @@ span{
     padding:20px;
     text-align:center;
 }
+.container{
+    width: 80;
+    margin:0 auto ;
+}
+.content{
+    background-color:#f0f0f0 ;
+    padding: 20px;
+    text-align: center;
+}
+#heading{
+    color:#333 ;
+}
+.description{
+    color: #666;
+}
+@media screen and (max-width:760px){
+    #heading{
+        font-size: 24px;
+    }
+}
+.description{
+    font-size: 16px;
+}
+@media screen and (max-width:480px){
+    #heading{
+        font-size:20px ;
+    }
+}
+
+
+
