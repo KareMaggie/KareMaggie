@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kare Maggie
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me @karemaggie87@gmail.com
 - 😄 Pronouns: She Her
